@@ -1,7 +1,6 @@
 👋 Hi, I’m @Kalidas-sake, a tech enthusiast with expertise across multiple programming languages.  
 👀 Passionate about coding and exploring new technologies.  
 🌱 Currently diving into architecture with a focus on Angular and backend microservices.  
-💞️ Open to collaboration on diverse tech projects!  
 📫 Reach me at [kalidasake07@gmail.com](mailto:kalidasake07@gmail.com)  
 
 
